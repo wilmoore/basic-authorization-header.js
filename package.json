@@ -20,6 +20,7 @@
     "readme.md"
   ],
   "keywords": [
+    "auth",
     "token",
     "base64",
     "authorization",
