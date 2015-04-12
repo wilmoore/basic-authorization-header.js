@@ -1,6 +1,15 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 0.2.0 - 2015-04-12
+### Added
+- add `.gitattributes`.
+
+### Changed
+- updated `.editorconfig`.
+- updated `.travis.yml`.
+- updated badges.
+
 ## 0.1.1 - 2015-04-11
 ### Added
 - "auth" keyword.

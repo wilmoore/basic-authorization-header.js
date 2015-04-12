@@ -1,6 +1,6 @@
 # basic-authorization-header
 
-[![Code Climate](https://codeclimate.com/github/wilmoore/basic-authorization-header.js/badges/gpa.svg)](https://codeclimate.com/github/wilmoore/basic-authorization-header.js) [![Build Status](http://img.shields.io/travis/wilmoore/basic-authorization-header.js.svg)](https://travis-ci.org/wilmoore/basic-authorization-header.js) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/feross/standard) [![NPM version](http://img.shields.io/npm/v/basic-authorization-header.svg)](https://www.npmjs.org/package/basic-authorization-header) [![NPM downloads](http://img.shields.io/npm/dm/basic-authorization-header.svg)](https://www.npmjs.org/package/basic-authorization-header) [![LICENSE](http://img.shields.io/npm/l/basic-authorization-header.svg)](license)
+[![npm](https://img.shields.io/npm/v/basic-authorization-header.svg)](https://www.npmjs.org/package/basic-authorization-header)  [![NPM downloads](http://img.shields.io/npm/dm/basic-authorization-header.svg)](https://www.npmjs.org/package/basic-authorization-header) [![Dependency Status](https://gemnasium.com/wilmoore/basic-authorization-header.js.svg)](https://gemnasium.com/wilmoore/basic-authorization-header.js) [![Code Climate](https://codeclimate.com/github/wilmoore/basic-authorization-header.js/badges/gpa.svg)](https://codeclimate.com/github/wilmoore/basic-authorization-header.js) [![Build Status](http://img.shields.io/travis/wilmoore/basic-authorization-header.js.svg)](https://travis-ci.org/wilmoore/basic-authorization-header.js) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/feross/standard)
 
 > RFC2617 basic authorization header from username and password.
 
@@ -27,9 +27,9 @@
 
 ## Notes
 
-If you just want the token, check out [basic-auth-token](https://www.npmjs.com/package/basic-auth-token).
+If you just want the token, check out [basic-authorization-header](https://www.npmjs.com/package/basic-authorization-header).
 
-## License
+## Licenses
 
-  [MIT](license)
+[![LICENSE](http://img.shields.io/npm/l/basic-authorization-header.svg)](license)
 
