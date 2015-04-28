@@ -1,6 +1,6 @@
 {
   "name": "basic-authorization-header",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "RFC2617 basic authorization header from username and password.",
   "main": "index.js",
   "scripts": {
