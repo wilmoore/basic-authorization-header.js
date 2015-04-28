@@ -1,7 +1,7 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
-## 0.2.1 - 2015-04-27
+## 0.2.3 - 2015-04-27
 ### Changed
 - update deps & badges.
 
