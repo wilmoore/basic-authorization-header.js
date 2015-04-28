@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 0.2.1 - 2015-04-27
+### Changed
+- update deps & badges.
+
 ## 0.2.0 - 2015-04-12
 ### Added
 - add `.gitattributes`.
