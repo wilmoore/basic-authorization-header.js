@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 0.2.4 - 2015-04-28
+### Changed
+- Switched from david to gemnasium badge.
+
 ## 0.2.3 - 2015-04-27
 ### Changed
 - update deps & badges.

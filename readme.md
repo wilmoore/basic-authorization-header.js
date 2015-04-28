@@ -9,7 +9,7 @@ npm install basic-authorization-header --save
 
 ###### npm stats
 
-[![npm](https://img.shields.io/npm/v/basic-authorization-header.svg)](https://www.npmjs.org/package/basic-authorization-header) [![NPM downloads](http://img.shields.io/npm/dm/basic-authorization-header.svg)](https://www.npmjs.org/package/basic-authorization-header) [![David](https://img.shields.io/david/wilmoore/basic-authorization-header.js.svg)]() [![David](https://img.shields.io/david/dev/wilmoore/basic-authorization-header.js.svg)]() 
+[![npm](https://img.shields.io/npm/v/basic-authorization-header.svg)](https://www.npmjs.org/package/basic-authorization-header) [![NPM downloads](http://img.shields.io/npm/dm/basic-authorization-header.svg)](https://www.npmjs.org/package/basic-authorization-header) [![Dependency Status](https://gemnasium.com/wilmoore/basic-authorization-header.js.svg)](https://gemnasium.com/wilmoore/basic-authorization-header.js)
 
 ## Example
 
