@@ -40,6 +40,7 @@ var headers = {
 - [RFC2617](https://tools.ietf.org/html/rfc2617#section-2)
 - [Security Considerations](https://tools.ietf.org/html/rfc2617#section-4)
 - [Increasing Security](http://security.stackexchange.com/a/27881/72283)
+- [http.request(options[, callback])](https://nodejs.org/api/http.html#http_http_request_options_callback)
 
 ## Notes
 
