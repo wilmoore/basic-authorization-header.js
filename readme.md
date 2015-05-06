@@ -15,8 +15,11 @@ npm install basic-authorization-header --save
 
 ```js
 var basic = require('basic-authorization-header');
-basic("Aladdin", "open sesame")
-//=> Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==
+var headers = {
+  'Authorization': basic("Aladdin", "open sesame"),
+};
+
+//=> { Authorization: 'Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==' }
 ```
 
 ## API
@@ -40,7 +43,7 @@ basic("Aladdin", "open sesame")
 
 ## Notes
 
-If you just want the token, check out [basic-authorization-header](https://www.npmjs.com/package/basic-authorization-header).
+If you just want the token, check out [basic-auth-token](https://www.npmjs.com/package/basic-auth-token).
 
 ## Licenses
 

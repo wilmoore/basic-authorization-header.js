@@ -1,6 +1,11 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 0.2.5 - 2015-05-06
+### Changed
+- Update example to better reflect real-world usage.
+- Fix link to basic-auth-token package.
+
 ## 0.2.4 - 2015-04-28
 ### Changed
 - Switched from david to gemnasium badge.
