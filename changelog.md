@@ -1,6 +1,14 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 0.2.7 - 2015-05-30
+### Added
+- add release scripts.
+
+### Changed
+- update outdated deps.
+- `fixpack`.
+
 ## 0.2.6 - 2015-05-06
 ### Changed
 - add `http.request(options[, callback])` to reference section.
