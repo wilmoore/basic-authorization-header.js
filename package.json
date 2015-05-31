@@ -1,7 +1,7 @@
 {
   "name": "basic-authorization-header",
   "description": "RFC2617 basic authorization header from username and password.",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "author": "Wil Moore III <wil.moore@wilmoore.com>",
   "bugs": {
     "url": "https://github.com/wilmoore/basic-authorization-header.js/issues"
